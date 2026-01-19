@@ -55,3 +55,43 @@ footer {
   padding: 20px;
   color: #777;
 }
+.detail-hero {
+  display: flex;
+  gap: 30px;
+  padding: 40px;
+  flex-wrap: wrap;
+}
+
+.detail-hero img {
+  width: 320px;
+  border-radius: 12px;
+}
+
+.detail-info {
+  max-width: 600px;
+}
+
+.watch-btn {
+  display: inline-block;
+  margin-top: 15px;
+  padding: 12px 18px;
+  background: crimson;
+  color: white;
+  text-decoration: none;
+  border-radius: 6px;
+}
+
+.episodes {
+  padding: 40px;
+}
+
+.episode-list button {
+  margin: 6px;
+  padding: 10px 14px;
+  background: #222;
+  color: white;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
